@@ -211,7 +211,7 @@ function enviarPergunta(){
   if(pergunta.includes("agua")){
 
     resposta =
-    "💧 Economizar água é essencial para a agricultura sustentável.";
+    "💧 Economizar água é essencial para a agricultura sustentável!";
 
   }else if(pergunta.includes("ia")){
 
