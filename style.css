@@ -173,7 +173,7 @@ section{
 
 /* Blog */
 .blog{
-  background:#e8f5e9;
+  background:#58b360;
 }
 
 .blog img{
@@ -185,7 +185,7 @@ section{
 
 /* Quiz */
 .quiz{
-  background:#f1f8e9;
+  background:#629c1f;
 }
 
 #resultadoQuiz{
@@ -196,12 +196,12 @@ section{
 
 /* Mapa */
 .mapa{
-  background:#e8f5e9;
+  background:#35993d;
 }
 
 /* Chatbot */
 .chatbot{
-  background:#f1f8e9;
+  background:#8dda36;
 }
 
 .caixa-chat{
